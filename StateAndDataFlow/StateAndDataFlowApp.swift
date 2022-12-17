@@ -2,7 +2,7 @@
 //  StateAndDataFlowApp.swift
 //  StateAndDataFlow
 //
-//  Created by Alexey Efimov on 14.12.2022.
+//  Created by Albina Lega on 17.12.2022.
 //
 
 import SwiftUI
